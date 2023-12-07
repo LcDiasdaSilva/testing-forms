@@ -1,4 +1,8 @@
-# Desenvolvendo e testando formulários ( Nas horas vagas \0/  )  
+# Desenvolvendo e testando formulários 
+
+Em desenvolvimento - (Nas horas vagas)  \0/
+
+
 ![Formulário de signIn](public/doc/form_1.png)
 ![Resultado](public/doc/test_1.png)
 
